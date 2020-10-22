@@ -53,7 +53,7 @@ Add the following components:
 * 1 x Logic Low '0' connected to UART/reset
 
 If you have an encoder with a 2Mbsp data rate, you'll also need the following:
-* 1 x Clock (set at 32Mhz) connected to UART/clock (this pin will appear once you select "External clock" in UART's configurations, see below)
+* 1 x Clock (set at 32Mhz) connected to UART/clock (this pin will appear once you select "External clock" in UART component configuration, see below)
 
 ## UART component configuration
 Configure tab:
