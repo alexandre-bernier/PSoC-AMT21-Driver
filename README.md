@@ -15,6 +15,7 @@ This project has been tested on the following hardware:
 
 # References
 AMT21 Series encoder product page: https://www.cuidevices.com/product/motion/rotary-encoders/absolute/modular/amt21-series
+
 AMT21 Series encoder datasheet: https://www.cuidevices.com/product/resource/amt21.pdf.
 
 # Example (main.c)
