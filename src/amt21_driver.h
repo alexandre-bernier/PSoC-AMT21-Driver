@@ -40,6 +40,7 @@
 *  1 x Digital Input Pin connected to UART_AMT21/rx
 *  1 x Digital Output Pin connected to UART_AMT21/tx
 *  1 x Digital Output Pin connected to UART_AMT21/tx_en
+*  1 x Logic Low '0' connected to UART/reset
 *
 *  If Data Rate = 2Mbps (see datasheet, page 5)
 *    1 x Clock (set at 32MHz) connected to UART_AMT21/clock
